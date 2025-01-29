@@ -1,4 +1,4 @@
-# EC-Team-59-yadtq-yet-another-distributed-task-queue-
+# Distributed Task Queue
 
 MacOS
 > START ZOOKEEPER : brew services start zookeeper\
